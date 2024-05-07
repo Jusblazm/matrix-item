@@ -4,7 +4,7 @@
 
 6199    Super Mystery Box
 
-9699    Weapon Box
+9699    Weapon Box\
 9700    Armour box
 
 24150   150k Coins Ticket (SoF Ticket)
