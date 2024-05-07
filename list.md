@@ -2,20 +2,20 @@
 
 ## Items of Note
 
-6199    Super Mystery Box\
+6199    Super Mystery Box
 
 9699    Weapon Box\
-9700    Armour box\
+9700    Armour box
 
 24150   150k Coins Ticket (SoF Ticket)\
-25435   200k Coins Ticket\
+25435   200k Coins Ticket
 
 25652   Ancestral Olmlet (Pet)\
 25653   Elder Olmlet (Pet)\
 25654   Twisted Olmlet (Pet)\
 25656   Horrific Right Arm (Pet)\
 25657   Horrific Left Arm (Pet)\
-25658   Horrific Tail (Pet)\
+25658   Horrific Tail (Pet)
 
 ## 25353 last official runescape item
 
@@ -23,22 +23,22 @@
 25355   Defence Master Cape\
 25356   Strength Master Cape\
 25357   Constitution Master Cape\
-25358   Ranged Master Cape
-25359   Prayer Master Cape
+25358   Ranged Master Cape\
+25359   Prayer Master Cape\
 25360   Magic Master Cape
 
 25370   Agility Master Cape
 
-25375   Hunter Master Cape
-25376   Construction Master Cape
-25377   Summoning Master Cape
-25378   TokHaar-Kal
-25379   Staff of Light
-25380   Dark Bow
-25381   Dragon Platelegs
-25382   Dragon Plateskirt
-25383   Dragon Kiteshield 
-25384   Dragon Boots
+25375   Hunter Master Cape\
+25376   Construction Master Cape\
+25377   Summoning Master Cape\
+25378   TokHaar-Kal\
+25379   Staff of Light\
+25380   Dark Bow\
+25381   Dragon Platelegs\
+25382   Dragon Plateskirt\
+25383   Dragon Kiteshield\
+25384   Dragon Boots\
 25385   Ahrim's Hood
 
 25390   Dharok's Greataxe
@@ -47,92 +47,92 @@
 
 25410   Akrisae's War Mace
 
-25412   Akrrisae's Robe Skirt
-25413   Bandos Warshield
-25414   Bandos Helmet
+25412   Akrrisae's Robe Skirt\
+25413   Bandos Warshield\
+25414   Bandos Helmet\
 25415   Bandos Gloves
 
-25420   Garb of Subjugation
-25421   Gown of Subjugation
-25422   Ward of Subjugation
-25423   Boots of Subjugation
-25424   Gloves of Subjugation
-25425   Donator Ticket
-25426   Super Donator Ticket
-25427   Extreme Donator Ticket 
-25428   Legendary Donator Ticket
-25429   VIP Donator Ticket
-25430   Overload (Special)
-25431   Rocktail (Special)
-25432   Pet Mystery Box
-25433   PK Tablet
-25434   Loyalty Token
-25435   200k Coins Ticket
-25436   Premium Mystery Box
-25437   Normal-Super Donator Ticket
-25438   Super-Extreme Donator Ticket
-25439   Extreme-Legendary Donator Ticket
-25440   Legendary-VIP Donator Ticket
-25441   Twisted Bow (u)
-25442   Armadyl Battlestaff (u)
-25443   Shimpy (Pet)
-25444   Nexterminator (Pet)
-25445   Queen Black Dragonling (Pet)
-25446   Galvek Pet
-25447   Aura Token       
-25448   Crushed Sapphire
-25449   Crushed Emerald
-25450   Crushed Ruby
-25451   Crushed Diamond
-25452   Crushed Onyx
-25453   God Mystery Box
-25454   Drunken Dwarf Pet
-25455   Pandora Key Fragment
-25456   Pandora Key
-25457   Coins Pet
-25458   Barrow Token
-25459   Vote Ticket
-25460   Twisted Bow (Halloween)
-25461   Ahrim Pet
-25462   Dharok Pet
-25463   Guthan Pet
-25464   Karil Pet
-25465   Torag Pet
-25466   Verac Pet
-25467   Onyx Pet
-25468   Onyx Pet
-25469   Twisted Bow (New Year)
-25470   Looter's Amulet
-25471   Nomad Pet
-25472   Donator Shards
-25473   Crushed Zenyte
-25474   Sotetseg Pet
-25475   Avatar of Creation Pet
-25476   Onyx Blood Scythe
-25477   Wings of Wealth
-25478   Onyx Blood Gem
-25479   Looter's Amulet of Torture
-25480   Looter's Amulet of Anguish
-25481   Imbue Scroll
-25482   Onyx Pet
-25483   Soul Stone
-25484   Soul Necklace
-25485   Looter's Soul Necklace
-25486   Infinity Necklace
-25487   Combat Dummy Pet
-25488   Infinity Ring
-25489   Corrupted Casket
-25490   Purple Sled
-25491   Wolpertinger Pet
-25492   Mystery Box
-25493   Supreme VIP Donator Ticket
-25494   VIP-Supreme VIP Donator Ticket
-25495   Almighty Spirit Shield
-25496   Empowered Snguinesti Staff
-25497   Almighty Sigil
-25498   Corrupted Curse
-25499   Eternal Slayer Helmet
-25500   Eternal Slayer Enchantment
+25420   Garb of Subjugation\
+25421   Gown of Subjugation\
+25422   Ward of Subjugation\
+25423   Boots of Subjugation\
+25424   Gloves of Subjugation\
+25425   Donator Ticket\
+25426   Super Donator Ticket\
+25427   Extreme Donator Ticket\
+25428   Legendary Donator Ticket\
+25429   VIP Donator Ticket\
+25430   Overload (Special)\
+25431   Rocktail (Special)\
+25432   Pet Mystery Box\
+25433   PK Tablet\
+25434   Loyalty Token\
+25435   200k Coins Ticket\
+25436   Premium Mystery Box\
+25437   Normal-Super Donator Ticket\
+25438   Super-Extreme Donator Ticket\
+25439   Extreme-Legendary Donator Ticket\
+25440   Legendary-VIP Donator Ticket\
+25441   Twisted Bow (u)\
+25442   Armadyl Battlestaff (u)\
+25443   Shimpy (Pet)\
+25444   Nexterminator (Pet)\
+25445   Queen Black Dragonling (Pet)\
+25446   Galvek Pet\
+25447   Aura Token\
+25448   Crushed Sapphire\
+25449   Crushed Emerald\
+25450   Crushed Ruby\
+25451   Crushed Diamond\
+25452   Crushed Onyx\
+25453   God Mystery Box\
+25454   Drunken Dwarf Pet\
+25455   Pandora Key Fragment\
+25456   Pandora Key\
+25457   Coins Pet\
+25458   Barrow Token\
+25459   Vote Ticket\
+25460   Twisted Bow (Halloween)\
+25461   Ahrim Pet\
+25462   Dharok Pet\
+25463   Guthan Pet\
+25464   Karil Pet\
+25465   Torag Pet\
+25466   Verac Pet\
+25467   Onyx Pet\
+25468   Onyx Pet\
+25469   Twisted Bow (New Year)\
+25470   Looter's Amulet\
+25471   Nomad Pet\
+25472   Donator Shards\
+25473   Crushed Zenyte\
+25474   Sotetseg Pet\
+25475   Avatar of Creation Pet\
+25476   Onyx Blood Scythe\
+25477   Wings of Wealth\
+25478   Onyx Blood Gem\
+25479   Looter's Amulet of Torture\
+25480   Looter's Amulet of Anguish\
+25481   Imbue Scroll\
+25482   Onyx Pet\
+25483   Soul Stone\
+25484   Soul Necklace\
+25485   Looter's Soul Necklace\
+25486   Infinity Necklace\
+25487   Combat Dummy Pet\
+25488   Infinity Ring\
+25489   Corrupted Casket\
+25490   Purple Sled\
+25491   Wolpertinger Pet\
+25492   Mystery Box\
+25493   Supreme VIP Donator Ticket\
+25494   VIP-Supreme VIP Donator Ticket\
+25495   Almighty Spirit Shield\
+25496   Empowered Snguinesti Staff\
+25497   Almighty Sigil\
+25498   Corrupted Curse\
+25499   Eternal Slayer Helmet\
+25500   Eternal Slayer Enchantment\
 25501   Genie Pet
 25502   Infernal Blowpipe
 25503   Millionaire's Box
