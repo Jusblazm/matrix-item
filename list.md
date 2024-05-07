@@ -2,27 +2,27 @@
 
 ## Items of Note
 
-6199    Super Mystery Box
+6199    Super Mystery Box\
 
 9699    Weapon Box\
-9700    Armour box
+9700    Armour box\
 
-24150   150k Coins Ticket (SoF Ticket)
-25435   200k Coins Ticket
+24150   150k Coins Ticket (SoF Ticket)\
+25435   200k Coins Ticket\
 
-25652   Ancestral Olmlet (Pet)
-25653   Elder Olmlet (Pet)
-25654   Twisted Olmlet (Pet)
-25656   Horrific Right Arm (Pet)
-25657   Horrific Left Arm (Pet)
-25658   Horrific Tail (Pet)
+25652   Ancestral Olmlet (Pet)\
+25653   Elder Olmlet (Pet)\
+25654   Twisted Olmlet (Pet)\
+25656   Horrific Right Arm (Pet)\
+25657   Horrific Left Arm (Pet)\
+25658   Horrific Tail (Pet)\
 
 ## 25353 last official runescape item
 
-25354   Attack Master Cape
-25355   Defence Master Cape
-25356   Strength Master Cape
-25357   Constitution Master Cape
+25354   Attack Master Cape\
+25355   Defence Master Cape\
+25356   Strength Master Cape\
+25357   Constitution Master Cape\
 25358   Ranged Master Cape
 25359   Prayer Master Cape
 25360   Magic Master Cape
