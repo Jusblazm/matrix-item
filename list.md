@@ -370,67 +370,67 @@
 
 42006   Abyssal Tentacle
 
-42399   Partyhat & Specs
-42400   Partyhat & Specs (Noted)
-42401   NULL
-42402   Nardah Teleport
-42403   Digsite Teleport
-42404   Feldip Hills Teleport
-42405   Lunar Isle Teleport
-42406   Mort'ton Teleport
-42407   Pest Control Teleport
-42408   Piscatoris Teleport
-42409   Tai Bwo Wannai Teleport
-42410   Iorwerth Camp Teleport
-42411   Mos Le'harmless Teleport
-42412   Pirate Hat & Patch
-42413   Pirate Hat & Patch (Noted)
-42414   Dragon Chainbody (g)
-42415   Dragon Platelegs (g)
-42416   Dragon Plateskirt (g)
-42417   Dragon Full Helm (g)
-42418   Dragon Sq Shield (g)
-42419   Light Infinity Hat
-42420   Light Infinity Top
-42421   Light Infinity Bottoms
-42422   3rd Age Wand
-42423   3rd Age Wand (Noted)
-42424   3rd Age Bow
-42425   3rd Age Bow (Noted)
-42426   3rd Age Longsword
-42427   3rd Age Longsword (Noted)
-42428   Penguin Mask
-42429   Penguin Mask (Noted)
-42430   Afro
-42431   Afro (Noted)
-42432   Top Hat
-42433   Top Hat (Noted)
-42434   Top Hat & Monocle
-42435   Top Hat & Monocle (Noted)
-42436   Amulet of Fury (or)
-42437   3rd Age Cloak
-42438   3rd Age Cloak (Noted)
-42439   Royal Sceptre
-42440   Royal Sceptre (Noted)
-42441   Musketeer Tabard
-42442   Musketeer Tabard (Noted)
-42443   Musketeer Pants
-42444   Musketeer Pants (Noted)
-42445   Black Skirt (g)
-42446   Black Skirt (g) (Noted)
-42447   Black Skirt (t)
-42448   Black Skirt (t) (Noted)
-42449   Black Wizard Robe (g)
-42450   Black Wizard Robe (g) (Noted)
-42451   Black Wizard Robe (t)
-42452   Black Wizard Robe (t) (Noted)
-42453   Black Wizard Hat (g)
-42454   Black Wizard Hat (g) (Noted)
-42455   Black Wizard Hat (t)
-42456   Black Wizard Hat (t) (Noted)
+42399   Partyhat & Specs\
+42400   Partyhat & Specs (Noted)\
+42401   NULL\
+42402   Nardah Teleport\
+42403   Digsite Teleport\
+42404   Feldip Hills Teleport\
+42405   Lunar Isle Teleport\
+42406   Mort'ton Teleport\
+42407   Pest Control Teleport\
+42408   Piscatoris Teleport\
+42409   Tai Bwo Wannai Teleport\
+42410   Iorwerth Camp Teleport\
+42411   Mos Le'harmless Teleport\
+42412   Pirate Hat & Patch\
+42413   Pirate Hat & Patch (Noted)\
+42414   Dragon Chainbody (g)\
+42415   Dragon Platelegs (g)\
+42416   Dragon Plateskirt (g)\
+42417   Dragon Full Helm (g)\
+42418   Dragon Sq Shield (g)\
+42419   Light Infinity Hat\
+42420   Light Infinity Top\
+42421   Light Infinity Bottoms\
+42422   3rd Age Wand\
+42423   3rd Age Wand (Noted)\
+42424   3rd Age Bow\
+42425   3rd Age Bow (Noted)\
+42426   3rd Age Longsword\
+42427   3rd Age Longsword (Noted)\
+42428   Penguin Mask\
+42429   Penguin Mask (Noted)\
+42430   Afro\
+42431   Afro (Noted)\
+42432   Top Hat\
+42433   Top Hat (Noted)\
+42434   Top Hat & Monocle\
+42435   Top Hat & Monocle (Noted)\
+42436   Amulet of Fury (or)\
+42437   3rd Age Cloak\
+42438   3rd Age Cloak (Noted)\
+42439   Royal Sceptre\
+42440   Royal Sceptre (Noted)\
+42441   Musketeer Tabard\
+42442   Musketeer Tabard (Noted)\
+42443   Musketeer Pants\
+42444   Musketeer Pants (Noted)\
+42445   Black Skirt (g)\
+42446   Black Skirt (g) (Noted)\
+42447   Black Skirt (t)\
+42448   Black Skirt (t) (Noted)\
+42449   Black Wizard Robe (g)\
+42450   Black Wizard Robe (g) (Noted)\
+42451   Black Wizard Robe (t)\
+42452   Black Wizard Robe (t) (Noted)\
+42453   Black Wizard Hat (g)\
+42454   Black Wizard Hat (g) (Noted)\
+42455   Black Wizard Hat (t)\
+42456   Black Wizard Hat (t) (Noted)\
 42457   Dark Infinity Hat\
 42458   Dark Infinity Top\
-42459   Dark Infinity Bottoms
+42459   Dark Infinity Bottoms\
 42460   Ancient Platebody
 
 42650   Pet General Graardor
