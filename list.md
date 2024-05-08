@@ -17,7 +17,9 @@
 25657   Horrific Left Arm (Pet)\
 25658   Horrific Tail (Pet)
 
-## 25353 last official runescape item
+## 25353 last official item
+
+### RS3
 
 25354   Attack Master Cape\
 25355   Defence Master Cape\
@@ -355,34 +357,33 @@
 25777   NULL\
 25778   NULL\
 25779   NULL\
-25780   NULL
-
-25790   NULL
-
-25800   NULL
-
-25900   NULL
-
-26000   NULL
-
-26100   NULL
-
-26200   NULL
-
-26300   NULL
-
-26400   NULL
-
-26500   NULL
-
-26600   NULL
-
-26700   NULL
-
-26800   NULL
-
-26900   NULL
-
+25780   NULL\
+25790   NULL\
+25800   NULL\
+25850   NULL\
+25900   NULL\
+25950   NULL\
+26000   NULL\
+26050   NULL\
+26100   NULL\
+26150   NULL\
+26200   NULL\
+26250   NULL\
+26300   NULL\
+26350   NULL\
+26400   NULL\
+26450   NULL\
+26500   NULL\
+26550   NULL\
+26600   NULL\
+26650   NULL\
+26700   NULL\
+26750   NULL\
+26800   NULL\
+26850   NULL\
+26900   NULL\
+26950   NULL\
+26999   NULL\
 27000   Small Slayer Casket\
 27001   Medium Slayer Casket\
 27002   Large Slayer Casket\
@@ -393,47 +394,62 @@
 27007   NULL\
 27008   NULL\
 27009   NULL\
-27010   NULL
+27010   NULL\
+27020   NULL\
+27030   NULL\
+27040   NULL\
+27050   NULL\
+27100   NULL\
+27150   NULL\
+27200   NULL\
+27250   NULL\
+27300   NULL\
+27350   NULL\
+27400   NULL\
+27450   NULL\
+27500   NULL\
+27550   NULL\
+27600   NULL\
+27650   NULL\
+27700   NULL\
+27750   NULL\
+27800   NULL\
+27850   NULL\
+27900   NULL\
+27950   NULL\
+28000   NULL\
+28050   NULL\
+28100   NULL\
+28150   NULL\
+28200   NULL\
+28250   NULL\
+28300   NULL\
+28350   NULL\
+28400   NULL\
+28450   NULL\
+28500   NULL\
+28550   NULL\
+28600   NULL\
+28650   NULL\
+28700   NULL\
+28750   NULL\
+28800   NULL\
+28850   NULL\
+28900   NULL\
+28950   NULL\
+29000   NULL\
+29100   NULL\
+29200   NULL\
+29300   NULL\
+29400   NULL\
+29500   NULL\
+29600   NULL\
+29700   NULL\
+29800   NULL\
+29900   NULL\
+29999   NULL\
 
-27100   NULL
-
-27200   NULL
-
-27300   NULL
-
-27400   NULL
-
-27500   NULL
-
-27600   NULL
-
-27700   NULL
-
-27800   NULL
-
-27900   NULL
-
-28000   NULL
-
-28100   NULL
-
-28200   NULL
-
-28300   NULL
-
-28400   NULL
-
-28500   NULL
-
-28600   NULL
-
-28700   NULL
-
-28800   NULL
-
-28900   NULL
-
-29000   NULL
+### OSRS
 
 30000   Dwarf Remains
 30001   Toolkit
@@ -555,9 +571,17 @@
 
 42931   Serpentine Helm
 
+43000   Mithril Set (lg)
+
+43050   Guthix Set (sk)
+
 43092   Crystal Halberd
 
+43100   Crystal Halberd 2/10
+
 43177   Venenatis Spiderling (Pet)
+
+43200   Tanzanite Mutagen
 
 43235   Eternal Boots\
 43236   Eternal Boots (Noted)\
@@ -568,12 +592,67 @@
 43241   Infernal Axe\
 43242   Infernal Axe (uncharged)
 
-43307   Blood Money
-
-43326   Baby Chinchompa (Pet)
-
+43300   NULL\
+43301   NULL\
+43302   Bank Key\
+43303   Bank Key\
+43304   Bank Key\
+43305   Bank Key\
+43306   Bank Key\
+43307   Blood Money\
+43308   NULL\
+43309   NULL\
+43310   NULL\
+43311   NULL\
+43312   NULL\
+43313   NULL\
+43314   NULL\
+43315   NULL\
+43316   NULL\
+43317   Deadman's Chest\
+43318   Deadman's Legs\
+43319   Deadman's Cape\
+43320   Heron (Pet)\
+43321   Rock Golem (Pet)\
+43322   Beaver (Pet)\
+43323   Baby Chinchompa (Pet)\
+43324   Baby Chinchompa (Pet)\
+43325   Baby Chinchompa (Pet)\
+43326   Baby Chinchompa (Pet)\
+43327   Rotten Onion\
+43328   Green Banner\
+43329   Fire Max Cape\
+43330   Fire Max Hood\
+43331   Saradomin Max Cape\
+43332   Saradomin Max Hood\
+43333   Zamorak Max Cape\
+43334   Zamorak Max Hood\
+43335   Guthix Max Cape\
+43336   Guthix Max Hood\
+43337   Accumulator Max Cape\
+43338   Accumulator Max Hood\
+43339   Sacred Eel\
+43340   Agility Cape\
+43341   Agility Cape (t)\
+43342   Max Cape\
 43343   Black Santa Hat\
-43344   Inverted Santa Hat
+43344   Inverted Santa Hat\
+43345   Anti-present\
+43346   Present\
+43347   Vial of Tears (empty)\
+43348   Vial of Tears (1)\
+43349   Vial of Tears (2)\
+43350   Vial of Tears (3)\
+43351   Vial of Tears (full)\
+43352   Vial of Sorrow\
+43353   Gricoller's Can\
+43354   Lovakite Bar\
+43355   Juniper Logs\
+43356   Lovakite Ore\
+43357   Shayzien Gloves (1)\
+43358   Shayzien Boots (1)\
+43359   Shayzien Helm (1)\
+43360   Shayzien Greaves (1)
 
 43663   Bunny Top\
 43664   Bunny Legs
@@ -729,9 +808,9 @@
 52351   Eggshell Platebody\
 52353   Eggshell Platelegs
 
-52522   Coin Pouch
-52523   Coin Pouch
-52524   Coin Pouch
+52522   Coin Pouch\
+52523   Coin Pouch\
+52524   Coin Pouch\
 52525   Coin Pouch
 
 52545   Viggora's Chainmace
@@ -786,6 +865,11 @@
 52975   Brimstone Ring
 
 53000   Bottled Dragonbreath (unpowered)
+
+53351   Cape of Skulls\
+53352   Cape of Skulls (Noted)\
+53353   NULL\
+53354   Amulet of Power (t)
 
 54000   Crystal Grail
 
@@ -851,15 +935,29 @@
 54537   NULL\
 54538   NULL\
 54539   NULL\
-54540   NULL
-
-55000   NULL
-
-55500   NULL
-
-55900   NULL
-
-55999   NULL
+54540   NULL\
+54550   NULL\
+54560   NULL\
+54570   NULL\
+54580   NULL\
+54590   NULL\
+54600   NULL\
+54700   NULL\
+54800   NULL\
+54900   NULL\
+55000   NULL\
+55100   NULL\
+55200   NULL\
+55300   NULL\
+55353   NULL\
+55400   NULL\
+55500   NULL\
+55600   NULL\
+55700   NULL\
+55800   NULL\
+55900   NULL\
+55999   NULL\
+56000   NULL\
 
 56140   NULL
 
