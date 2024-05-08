@@ -451,9 +451,9 @@
 
 ### OSRS
 
-30000   Dwarf Remains
-30001   Toolkit
-30002   Cannonball
+30000   Dwarf Remains\
+30001   Toolkit\
+30002   Cannonball\
 30003   Ammo Mould
 
 30100   Ranarr Potion (unf) (Noted)
