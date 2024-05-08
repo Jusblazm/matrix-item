@@ -7,6 +7,11 @@
 9699    Weapon Box\
 9700    Armour Box
 
+23713   Small XP Lamp
+23714   Medium XP Lamp
+23715   Large XP Lamp
+23716   Huge XP Lamp
+
 24150   150k Coins Ticket (SoF Ticket)\
 25435   200k Coins Ticket
 
@@ -471,9 +476,13 @@
 41926   Odium Ward\
 41927   Odium Ward (Noted)
 
+41936   Dark Crab
+
 41941   Looting Bag
 
 41971   Staff of the Dead
+
+41992   Lava Scale
 
 42002   Occult Necklace
 
@@ -666,7 +675,11 @@
 
 49484   Dragon Javelin
 
+49549   NULL
 49550   Ring of Suffering
+49551   Ring of Suffering (Noted)
+49552   NULL
+49553   Amulet of Torture
 
 49707   Amulet of Eternal Glory
 
@@ -725,9 +738,25 @@
 
 51006   Kodai Wand
 
-51012   Dragon Hunter Crossbow
-
-51028   Dragon Harpoon
+51012   Dragon Hunter Crossbow\
+51013   Dragon Hunter Crossbow (Noted)\
+51014   NULL\
+51015   Dinh's Bulwark\
+51016   Dinh's Bulwark (Noted)\
+51017   NULL\
+51018   Ancestral Hat\
+51019   Ancestral Hat (Noted)\
+51020   NULL\
+51021   Ancestral Robe Top\
+51022   Ancestral Robe Top (Noted)\
+51023   NULL\
+51024   Ancestral Robe Bottom\
+51025   Ancestral Robe Bottom (Noted)\
+51026   NULL\
+51027   Dark Relic\
+51028   Dragon Harpoon\
+51029   Dragon Harpoon (Noted)\
+51030   NULL
 
 51293   Infernal Eel\
 51294   NULL\
@@ -764,6 +793,8 @@
 
 51902   Dragon Crossbow
 
+51930   Dragon Bolts (unf)
+
 51944   Ruby Dragon Bolts (e)
 
 51946   Diamond Dragon Bolts (e)
@@ -789,7 +820,9 @@
 52016   Map Piece\
 52017   Map Piece\
 52018   Map Piece\
-52019   Map Piece
+52019   Map Piece\
+52020   Map Piece\
+52021   Map Piece
 
 52030   Map Piece
 
@@ -831,7 +864,8 @@
 
 52720   NULL
 
-52730   Attacker Icon
+52730   Attacker Icon\
+52731   Dragon Hasta
 
 52740   Dragon Hasta (P++)
 
@@ -841,7 +875,15 @@
 
 52770   Unknown Fluid 2
 
-52780   Wyvern Bones
+52780   Wyrm Bones\
+52781   Wyrm Bones (Noted)\
+52782   NULL\
+52783   Drake Bones\
+52784   Drake Bones (Noted)\
+52785   NULL\
+52786   Hydra Bones\
+52787   Hydra Bones (Noted)\
+52788   NULL
 
 52790   Uncooked Dragonfruit Pie (Noted)
 
@@ -875,6 +917,8 @@
 
 53037   Boots of Stone
 
+53083   Brimstone Key
+
 53351   Cape of Skulls\
 53352   Cape of Skulls (Noted)\
 53353   NULL\
@@ -882,8 +926,26 @@
 
 53448   Bunnyman Mask
 
+53905   Tephra\
+53906   Refined Tephra\
+53907   Imbued Tephra
+
+53951   Enhanced Crystal Key
+
+53962   Crystal Shard\
+53963   NULL\
+53964   Crystal Dust\
+53965   NULL\
+53966   NULL
+
 54000   Crystal Grail
 
+54037   Dragonstone Platebody
+
+54043   Dragonstone Boots
+
+54418   Cabbage
+54419   Inquisitor's Great Helm
 54420   Inquisitor's Hauberk\
 54421   Inquisitor's Plateskirt\
 54422   Nightmare Staff\
