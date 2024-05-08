@@ -550,11 +550,11 @@
 
 51028   Dragon Harpoon
 
-51293   Infernal Eel
-51294   NULL
-51295   Infernal Cape
-51296   NULL
-51297   Infernal Cape
+51293   Infernal Eel\
+51294   NULL\
+51295   Infernal Cape\
+51296   NULL\
+51297   Infernal Cape\
 51298   Obsidian Helmet\
 51299   Obsidian Helmet (Noted)\
 51300   NULL\
