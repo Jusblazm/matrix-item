@@ -402,10 +402,36 @@
 42428   Penguin Mask
 42429   Penguin Mask (Noted)
 42430   Afro
-
+42431   Afro (Noted)
+42432   Top Hat
+42433   Top Hat (Noted)
+42434   Top Hat & Monocle
+42435   Top Hat & Monocle (Noted)
+42436   Amulet of Fury (or)
+42437   3rd Age Cloak
+42438   3rd Age Cloak (Noted)
+42439   Royal Sceptre
+42440   Royal Sceptre (Noted)
+42441   Musketeer Tabard
+42442   Musketeer Tabard (Noted)
+42443   Musketeer Pants
+42444   Musketeer Pants (Noted)
+42445   Black Skirt (g)
+42446   Black Skirt (g) (Noted)
+42447   Black Skirt (t)
+42448   Black Skirt (t) (Noted)
+42449   Black Wizard Robe (g)
+42450   Black Wizard Robe (g) (Noted)
+42451   Black Wizard Robe (t)
+42452   Black Wizard Robe (t) (Noted)
+42453   Black Wizard Hat (g)
+42454   Black Wizard Hat (g) (Noted)
+42455   Black Wizard Hat (t)
+42456   Black Wizard Hat (t) (Noted)
 42457   Dark Infinity Hat\
 42458   Dark Infinity Top\
 42459   Dark Infinity Bottoms
+42460   Ancient Platebody
 
 42650   Pet General Graardor
 
