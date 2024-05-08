@@ -357,7 +357,98 @@
 25779   NULL\
 25780   NULL
 
+25790   NULL
+
+25800   NULL
+
+25900   NULL
+
+26000   NULL
+
+26100   NULL
+
+26200   NULL
+
+26300   NULL
+
+26400   NULL
+
+26500   NULL
+
+26600   NULL
+
+26700   NULL
+
+26800   NULL
+
+26900   NULL
+
+27000   Small Slayer Casket\
+27001   Medium Slayer Casket\
+27002   Large Slayer Casket\
+27003   Boss Slayer Casket\
+27004   Mystery Crate\
+27005   Oversized Mystery Crate\
+27006   Slayer Resource Crate\
+27007   NULL\
+27008   NULL\
+27009   NULL\
+27010   NULL
+
+27100   NULL
+
+27200   NULL
+
+27300   NULL
+
+27400   NULL
+
+27500   NULL
+
+27600   NULL
+
+27700   NULL
+
+27800   NULL
+
+27900   NULL
+
+28000   NULL
+
+28100   NULL
+
+28200   NULL
+
+28300   NULL
+
+28400   NULL
+
+28500   NULL
+
+28600   NULL
+
+28700   NULL
+
+28800   NULL
+
+28900   NULL
+
+29000   NULL
+
+30000   Dwarf Remains
+30001   Toolkit
+30002   Cannonball
+30003   Ammo Mould
+
+30100   Ranarr Potion (unf) (Noted)
+
+40000   Hunter Potion (3)
+
+41000   Goblin Book (Noted)
+
 41413   Adamant Hasta (P++) (Noted)
+
+41918   Birthday Present
 
 41924   Malediction Ward\
 41925   Malediction Ward (Noted)\
@@ -441,6 +532,8 @@
 
 42791   Rune Pouch
 
+42802   Ward Upgrade Kit
+
 42808   Sara's Blessed Sword (full)\
 42809   Sara's Blessed Sword\
 42810   Ironman Helm\
@@ -484,6 +577,8 @@
 
 43663   Bunny Top\
 43664   Bunny Legs
+
+45000   NULL
 
 49481   Heavy Ballista
 
@@ -634,6 +729,11 @@
 52351   Eggshell Platebody\
 52353   Eggshell Platelegs
 
+52522   Coin Pouch
+52523   Coin Pouch
+52524   Coin Pouch
+52525   Coin Pouch
+
 52545   Viggora's Chainmace
 
 52550   Craw's Bow
@@ -689,7 +789,69 @@
 
 54000   Crystal Grail
 
-54500   Inquisitor's Great Helm (Noted)
+54420   Inquisitor's Hauberk\
+54421   Inquisitor's Plateskirt\
+54422   Nightmare Staff\
+54423   Harmonised Nightmare Staff\
+54424   Volatile Nightmare Staff\
+54425   Eldritch Nightmare Staff\
+54426   Cabbage\
+54427   Cabbage (Noted)\
+54428   Green Gingerbread Shield\
+54429   NULL\
+54430   Red Gingerbread Shield\
+54431   Blue Gingerbread Shield\
+54432   Festive Cinnamon Stick\
+54433   Festive Ginger Powder\
+54434   Festive Egg\
+54435   Festive Pot\
+54436   Festive Flour\
+54437   Gingerbread Shield\
+54438   Iced Gingerbread Shield\
+54439   Iced Gingerbread Shield\
+54440   Iced Gingerbread Shield
+
+54500   Inquisitor's Great Helm (Noted)\
+54501   NULL\
+54502   Inquisitor's Hauberk (Noted)\
+54503   NULL\
+54504   Inquisitor's Plateskirt (Noted)\
+54505   NULL\
+54506   Nightmare Staff (Noted)\
+54507   NULL\
+54508   NULL\
+54509   NULL\
+54510   NULL\
+54511   Harmonised Orb\
+54512   Harmonised Orb (Noted)\
+54513   NULL\
+54514   Volatile Orb\
+54515   Volatile Orb (Noted)\
+54516   NULL\
+54517   Eldritch Orb\
+54518   Eldritch Orb (Noted)\
+54519   NULL\
+54520   Victor's Cape (1000)\
+54521   NULL\
+54522   NULL\
+54523   NULL\
+54524   NULL\
+54525   Cat Ears\
+54526   NULL\
+54527   Hell Cat Ears\
+54528   Lamp of the Gatherer\
+54529   Harmony\
+54530   NULL\
+54531   NULL\
+54532   NULL\
+54533   NULL\
+54534   NULL\
+54535   NULL\
+54536   NULL\
+54537   NULL\
+54538   NULL\
+54539   NULL\
+54540   NULL
 
 55000   NULL
 
@@ -699,6 +861,11 @@
 
 55999   NULL
 
+56140   NULL
+
 59000   NULL
 
+59999   NULL
 60000   Dwarf Remains
+
+60100   Ranarr Potion (unf) (Noted)
