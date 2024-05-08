@@ -745,8 +745,12 @@
 50849   Dragon Thrownaxe\
 50850   NULL
 
-51006   Kodai Wand
-
+51006   Kodai Wand\
+51007   Kodai Wand (Noted)\
+51008   NULL\
+51009   Dragon Sword\
+51010   Dragon Sword (Noted)\
+51011   NULL\
 51012   Dragon Hunter Crossbow\
 51013   Dragon Hunter Crossbow (Noted)\
 51014   NULL\
@@ -918,8 +922,12 @@
 
 52900   NULL
 
-52975   Brimstone Ring
-
+52975   Brimstone Ring\
+52976   Brimstone Ring (Noted)\
+52977   NULL\
+52978   Dragon Hunter Lance\
+52979   Dragon Hunter Lance (Noted)\
+52980   NULL\
 52981   Ferocious Gloves
 
 53000   Bottled Dragonbreath (unpowered)
@@ -947,11 +955,67 @@
 53965   NULL\
 53966   NULL
 
-54000   Crystal Grail
-
-54037   Dragonstone Platebody
-
-54043   Dragonstone Boots
+54000   Crystal Grail\
+54001   Crystal Grail (Noted)\
+54002   NULL\
+54003   Elven Boots\
+54004   Elven Boots (Noted)\
+54005   NULL\
+54006   Elven Gloves\
+54007   Elven Gloves (Noted)\
+54008   NULL\
+54009   Elven Top\
+54010   Elven Top (Noted)\
+54011   NULL\
+54012   Elven Skirt\
+54013   Elven Skirt (Noted)\
+54014   NULL\
+54015   Elven Top\
+54016   Elven Top (Noted)\
+54017   NULL\
+54018   Elven Skirt\
+54019   Elven Skirt (Noted)\
+54020   NULL\
+54021   Elven Top\
+54022   Elven Top (Noted)\
+54023   NULL\
+54024   Elven Legwear\
+54025   Elven Legwear (Noted)\
+54026   NULL\
+54027   Elven Top\
+54028   Elven Top (Noted)\
+54029   NULL\
+54030   Memoriam Crystal (1)\
+54031   Memoriam Crystal (2)\
+54032   Memoriam Crystal (3)\
+54033   Memoriam Crystal (4)\
+54034   Dragonstone Full Helm\
+54035   Dragonstone Full Helm (Noted)\
+54036   NULL\
+54037   Dragonstone Platebody\
+54038   Dragonstone Platebody (Noted)\
+54039   NULL\
+53040   Dragonstone Platelegs\
+53041   Dragonstone Platelegs (Noted)\
+53042   NULL\
+54043   Dragonstone Boots\
+54044   Dragonstone Boots (Noted)\
+54045   NULL\
+54046   Dragonstone Gloves\
+54047   Dragonstone Gloves (Noted)\
+54048   NULL\
+54049   Crazed Scribbles\
+54050   NULL\
+54051   A Dear Friend\
+54052   NULL\
+54053   On Leprechauns\
+54054   NULL\
+54055   Bloody Diary\
+54056   NULL\
+54057   The Eight Clans\
+54058   NULL\
+54059   Gollwyn's Final Statement\
+54060   NULL
 
 54418   Cabbage
 54419   Inquisitor's Great Helm
