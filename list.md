@@ -357,6 +357,7 @@
 25779   NULL\
 25780   NULL
 
+41413   Adamant Hasta (P++) (Noted)
 
 41924   Malediction Ward\
 41925   Malediction Ward (Noted)\
@@ -369,7 +370,38 @@
 
 42006   Abyssal Tentacle
 
-42339   Partyhat & Specs
+42399   Partyhat & Specs
+42400   Partyhat & Specs (Noted)
+42401   NULL
+42402   Nardah Teleport
+42403   Digsite Teleport
+42404   Feldip Hills Teleport
+42405   Lunar Isle Teleport
+42406   Mort'ton Teleport
+42407   Pest Control Teleport
+42408   Piscatoris Teleport
+42409   Tai Bwo Wannai Teleport
+42410   Iorwerth Camp Teleport
+42411   Mos Le'harmless Teleport
+42412   Pirate Hat & Patch
+42413   Pirate Hat & Patch (Noted)
+42414   Dragon Chainbody (g)
+42415   Dragon Platelegs (g)
+42416   Dragon Plateskirt (g)
+42417   Dragon Full Helm (g)
+42418   Dragon Sq Shield (g)
+42419   Light Infinity Hat
+42420   Light Infinity Top
+42421   Light Infinity Bottoms
+42422   3rd Age Wand
+42423   3rd Age Wand (Noted)
+42424   3rd Age Bow
+42425   3rd Age Bow (Noted)
+42426   3rd Age Longsword
+42427   3rd Age Longsword (Noted)
+42428   Penguin Mask
+42429   Penguin Mask (Noted)
+42430   Afro
 
 42457   Dark Infinity Hat\
 42458   Dark Infinity Top\
@@ -492,6 +524,11 @@
 
 51028   Dragon Harpoon
 
+51293   Infernal Eel
+51294   NULL
+51295   Infernal Cape
+51296   NULL
+51297   Infernal Cape
 51298   Obsidian Helmet\
 51299   Obsidian Helmet (Noted)\
 51300   NULL\
