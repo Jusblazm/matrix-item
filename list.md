@@ -7,9 +7,9 @@
 9699    Weapon Box\
 9700    Armour Box
 
-23713   Small XP Lamp
-23714   Medium XP Lamp
-23715   Large XP Lamp
+23713   Small XP Lamp\
+23714   Medium XP Lamp\
+23715   Large XP Lamp\
 23716   Huge XP Lamp
 
 24150   150k Coins Ticket (SoF Ticket)\
@@ -33,9 +33,20 @@
 25358   Ranged Master Cape\
 25359   Prayer Master Cape\
 25360   Magic Master Cape
-
-25370   Agility Master Cape
-
+25361   Cooking Master Cape\
+25362   Woodcutting Master Cape\
+25363   Fletching Master Cape\
+25364   Fishing Master Cape\
+25365   Firemaking Master Cape\
+25366   Crafting Master Cape\
+25367   Smithing Master Cape\
+25368   Mining Master Cape\
+25369   Herblore Master Cape\
+25370   Agility Master Cape\
+25371   Thieving Master Cape\
+25372   Slayer Master Cape\
+25373   Farming Master Cape\
+25374   Runecrafting Master Cape\
 25375   Hunter Master Cape\
 25376   Construction Master Cape\
 25377   Summoning Master Cape\
@@ -376,6 +387,7 @@
 26250   NULL\
 26300   NULL\
 26350   NULL\
+26366   NULL\
 26400   NULL\
 26450   NULL\
 26500   NULL\
