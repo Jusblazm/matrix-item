@@ -32,7 +32,7 @@
 25357   Constitution Master Cape\
 25358   Ranged Master Cape\
 25359   Prayer Master Cape\
-25360   Magic Master Cape
+25360   Magic Master Cape\
 25361   Cooking Master Cape\
 25362   Woodcutting Master Cape\
 25363   Fletching Master Cape\
@@ -63,13 +63,16 @@
 
 25400   Karil's Skirt
 
-25410   Akrisae's War Mace
-
-25412   Akrrisae's Robe Skirt\
+25410   Akrisae's War Mace\
+25411   Akrisae's Robe Top\
+25412   Akrisae's Robe Skirt\
 25413   Bandos Warshield\
 25414   Bandos Helmet\
-25415   Bandos Gloves
-
+25415   Bandos Gloves\
+25416   Armadyl Boots\
+25417   Armadyl Buckler\
+25418   Armadyl Gloves\
+25419   Hood of Subjugation\
 25420   Garb of Subjugation\
 25421   Gown of Subjugation\
 25422   Ward of Subjugation\
@@ -355,7 +358,42 @@
 25702   Catalyst Spirit Shield\
 25703   NULL (Noted Recover Special (4))\
 25704   NULL (Noted Recover Special (3))
+25705   NULL (Noted Recover Special (2))
+25706   NULL (Noted Recover Special (1))
+25707   NULL (Noted Super Antifire (4))
+25708   NULL (Noted Super Antifire (3))
+25709   NULL (Noted Super Antifire (2))
+25710   NULL (Noted Super Antifire (1))
 
+25720   NULL (Noted Extreme Defence (3))
+
+25730   NULL (Noted Extreme Ranging (1))
+
+25738   NULL (Noted Overload (1))
+25739   Infinity Imbue Scroll
+25740   Infinity Necklace (i)
+25741   Infinity Ring (i)
+25742   Ultimate Bandos Chestplate (i)
+25743   Ultimate Bandos Tassets (i)
+25744   Ultimate Bandos Helmet (i)
+25745   Ultimate Bandos Gloves (i)
+25746   Ultimate Bandos Boots (i)
+25747   Ultimate Bandos Warshield (i)
+25748   Ultimate Armadyl Helmet (i)
+25749   Ultimate Armadyl Chestplate (i)
+25750   Ultimate Armadyl Chainskirt (i)
+25751   Ultimate Armadyl Gloves (i)
+25752   Ultimate Armadyl Boots (i)
+25753   Ultimate Armadyl Buckler (i)
+25754   Ultimate Hood of Subjugation (i)
+25755   Ultimate Garb of Subjugation (i)
+25756   Ultimate Gown of Subjugation (i)
+25757   Ultimate Ward of Subjugation (i)
+25758   Ultimate Boots of Subjugation (i)
+25759   Ultimate Gloves of Subjugation (i)
+25760   Bandos Imbue Scroll
+25761   Armadyl Imbue Scroll
+25762   Subjugation Imbue Scroll
 25763   Aura Mystery Box\
 25764   Lucien's Staff\
 25765   Lucien Empowered Gem\
