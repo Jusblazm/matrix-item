@@ -675,13 +675,18 @@
 
 49484   Dragon Javelin
 
-49549   NULL
-49550   Ring of Suffering
-49551   Ring of Suffering (Noted)
-49552   NULL
+49549   NULL\
+49550   Ring of Suffering\
+49551   Ring of Suffering (Noted)\
+49552   NULL\
 49553   Amulet of Torture
 
-49707   Amulet of Eternal Glory
+49707   Amulet of Eternal Glory\
+49708   Amulet of Eternal Glory (Noted)\
+49709   NULL\
+49710   Ring of Suffering (i)\
+49711   NULL\
+49712   Clue Next (easy)
 
 49730   Bloodhound (Pet)
 
@@ -718,6 +723,10 @@
 
 50590   Stale Baguette
 
+50655   Ring of Suffering (r)\
+50656   NULL\
+50657   Ring of Suffering (ri)\
+50658   NULL\
 50659   Giant Squirrel (Pet)
 
 50714   Tome of Fire
@@ -1021,6 +1030,7 @@
 55000   NULL\
 55100   NULL\
 55200   NULL\
+55248   NULL\
 55300   NULL\
 55353   NULL\
 55400   NULL\
