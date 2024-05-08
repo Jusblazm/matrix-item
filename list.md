@@ -475,6 +475,8 @@
 
 41971   Staff of the Dead
 
+42002   Occult Necklace
+
 42006   Abyssal Tentacle
 
 42399   Partyhat & Specs\
@@ -570,6 +572,7 @@
 42896   Antisanta Boots
 
 42931   Serpentine Helm
+42932   Magic Fang
 
 43000   Mithril Set (lg)
 
@@ -662,6 +665,8 @@
 49481   Heavy Ballista
 
 49484   Dragon Javelin
+
+49550   Ring of Suffering
 
 49707   Amulet of Eternal Glory
 
@@ -864,12 +869,18 @@
 
 52975   Brimstone Ring
 
+52981   Ferocious Gloves
+
 53000   Bottled Dragonbreath (unpowered)
+
+53037   Boots of Stone
 
 53351   Cape of Skulls\
 53352   Cape of Skulls (Noted)\
 53353   NULL\
 53354   Amulet of Power (t)
+
+53448   Bunnyman Mask
 
 54000   Crystal Grail
 
@@ -967,3 +978,5 @@
 60000   Dwarf Remains
 
 60100   Ranarr Potion (unf) (Noted)
+
+82190 - 82442 NOTED DUNGEONEERING ITEMS
