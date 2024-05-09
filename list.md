@@ -529,8 +529,8 @@
 
 41936   Dark Crab
 
-41941   Looting Bag
-41942   Ecumenical Key
+41941   Looting Bag\
+41942   Ecumenical Key\
 41943   Lava Dragon Bones
 
 41971   Staff of the Dead
@@ -633,7 +633,7 @@
 42894   Antisanta Pantaloons\
 42896   Antisanta Boots
 
-42931   Serpentine Helm
+42931   Serpentine Helm\
 42932   Magic Fang
 
 43000   Mithril Set (lg)
@@ -918,7 +918,7 @@
 
 52284   Black D'hide Shield
 
-52324   Ghrazi Rapier
+52324   Ghrazi Rapier\
 52325   Scythe of Vitur
 
 52328   Justiciar Legguards
@@ -1208,8 +1208,8 @@
 54370   Twisted Slayer Helmet\
 54371   NULL
 
-54418   Cabbage
-54419   Inquisitor's Great Helm
+54418   Cabbage\
+54419   Inquisitor's Great Helm\
 54420   Inquisitor's Hauberk\
 54421   Inquisitor's Plateskirt\
 54422   Nightmare Staff\
@@ -1358,6 +1358,6 @@
 59000   NULL\
 59999   NULL\
 60000   Dwarf Remains\
-60100   Ranarr Potion (unf) (Noted)\
+60100   Ranarr Potion (unf) (Noted)
 
 82190 - 82442 NOTED DUNGEONEERING ITEMS
