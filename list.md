@@ -657,7 +657,12 @@
 43239   Primordial Boots\
 43240   Primordial Boots (Noted)\
 43241   Infernal Axe\
-43242   Infernal Axe (uncharged)
+43242   Infernal Axe (uncharged)\
+43243   Infernal Pickaxe\
+43244   Infernal Pickaxe (uncharged)\
+43245   Jar of Sould
+
+
 
 43300   NULL\
 43301   NULL\
@@ -831,6 +836,17 @@
 51029   Dragon Harpoon (Noted)\
 51030   NULL
 
+51282   Infernal Max Hood\
+51283   NULL\
+51284   Infernal Max Cape\
+51285   Infernal Max Cape\
+51286   NULL\
+51287   Infernal Cape (broken)\
+51288   NULL\
+51289   Infernal Max Cape (broken)\
+51290   Infernal Max Cape (broken)\
+51291   Jal-nib-rek\
+51292   NULL\
 51293   Infernal Eel\
 51294   NULL\
 51295   Infernal Cape\
@@ -918,6 +934,8 @@
 
 52284   Black D'hide Shield
 
+52322   Avernic Defender\
+52323   Sanguinesti Staff\
 52324   Ghrazi Rapier\
 52325   Scythe of Vitur
 
@@ -1356,6 +1374,7 @@
 54800   NULL\
 54900   NULL\
 55000   NULL\
+55059   NULL\
 55100   NULL\
 55200   NULL\
 55248   NULL\
