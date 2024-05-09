@@ -217,7 +217,7 @@
 25560   Ultimate Virtus Robe Top\
 25561   Ultimate Virtus Mask\
 25562   Ultimate Pernix Boots\
-25563   Ultimate Petnix Gloves\
+25563   Ultimate Pernix Gloves\
 25564   Ultimate Pernix Chaps\
 25565   Ultimate Pernix Body\
 25566   Ultimate Pernix Body\
@@ -764,7 +764,7 @@
 50372   Saradomin Godsword (or)\
 50373   NULL\
 50374   Zamorak Godsword (or)\
-59375   NULL
+50375   NULL
 
 50433   Evil Chicken Feet\
 50434   Evil Chicken Feet (Noted)\
