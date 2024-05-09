@@ -730,6 +730,11 @@
 
 49484   Dragon Javelin
 
+49544   Tormented Bracelet\
+49545   Tormented Bracelet (Noted)\
+49546   NULL\
+49547   Necklace of Anguish\
+49548   Necklace of Anguish (Noted)\
 49549   NULL\
 49550   Ring of Suffering\
 49551   Ring of Suffering (Noted)\
@@ -1079,6 +1084,130 @@
 54059   Gollwyn's Final Statement\
 54060   NULL
 
+54189   Deadman's Chest\
+54190   Deadman's Legs\
+54191   Deadman's Cape\
+54192   Armadyl Halo\
+54193   NULL\
+54194   Armadyl Halo (i)\
+54195   Bandos Halo\
+54196   NULL\
+54197   Bandos Halo (i)\
+54198   Seren Halo\
+54199   NULL\
+54200   Seren Halo (i)\
+54201   Ancient Halo\
+54202   NULL\
+54203   Ancient Halo (i)\
+54204   Brassica Halo\
+54205   NULL\
+54206   Brassica Halo (i)\
+54207   Victor's Cape (1)\
+54208   NULL\
+54209   Victor's Cape (10)\
+54210   NULL\
+54211   Victor's Cape (50)\
+54212   NULL\
+54213   Victor's Cape (100)\
+54214   NULL\
+54215   Victor's Cape (500)\
+54216   NULL\
+54217   Guthixian Icon\
+54218   NULL\
+54219   Swift Blade\
+54220   Swift Blade (Noted)\
+54221   NULL\
+54222   Ava's Assembler (i)\
+54223   Fire Cape (i)\
+54224   Infernal Cape (i)\
+54225   Granite Maul\
+54226   NULL\
+54227   Granite Maul\
+54228   NULL\
+54229   Ornate Maul Handle\
+54230   Ornate Maul Handle\
+54231   NULL\
+54232   Imbued Saradomin Max Cape (i)\
+54233   Imbued Zamorak Max Cape (i)\
+54234   Imbued Guthix Max Cape (i)\
+54235   House Advertisement\
+54236   Imbued Saradomin Cape (broken)\
+54237   NULL\
+54238   Imbued Saradomin Max Cape (broken)\
+54239   NULL\
+54240   Imbued Guthix Cape (broken)\
+54241   NULL\
+54242   Imbued Guthix Max Cape (broken)\
+54243   NULL\
+54244   Imbued Zamorak Cape (broken)\
+54245   NULL\
+54246   Imbued Zamorak Max Cape (broken)\
+54247   NULL\
+54248   Imbued Saradomin Cape (i)\
+54249   Imbued Guthix Cape (i)\
+54250   Imbued Zamorak Cape (i)\
+54251   Wilderness Crabs Teleport\
+54252   NULL\
+54253   Clue Scroll (elite)\
+54254   Fang\
+54255   Venom Glad\
+54256   Unsealed Letter\
+54257   Unsealed Letter\
+54258   V Sigil\
+54259   V Sigil (e)\
+54260   Molten Glass (i)\
+54261   Lunar Glass\
+54262   Polishing Rock\
+54263   Ballad of the Basilisk\
+54264   NULL\
+54265   V's Shield\
+54266   V's Shield\
+54267   NULL\
+54268   Basilisk Jaw\
+54269   Basilisk Jaw (Noted)\
+54270   NULL\
+54271   Neitiznot Faceguard\
+54272   NULL\
+54273   NULL\
+54274   NULL\
+54275   NULL\
+54276   Basilisk Knight\
+
+54300   Spooky Hood\
+54301   Spooky Robe\
+54302   Spooky Skirt\
+54303   Spooky Gloves\
+54304   Spooky Boots\
+54305   Spooky Hood\
+54306   NULL\
+54307   Spooky Robe\
+54308   NULL\
+54309   Spooky Skirt\
+54310   NULL\
+54311   Spooky Gloves\
+54312   NULL\
+54313   Spooky Boots\
+54314   NULL\
+54315   Spookier Hood\
+54316   NULL\
+54317   Spookier Robe\
+54318   NULL\
+54319   Spookier Skirt\
+54320   NULL\
+54321   Spookier Gloves\
+54322   NULL\
+54323   Spookier Boots\
+54324   NULL\
+54325   Pumpkin Lantern\
+54326   NULL\
+54327   Skeleton Lantern\
+54328   NULL\
+54329   Bountry Crate\
+54330   NULL\
+
+54370   Twisted Slayer Helmet\
+54371   NULL
+
 54418   Cabbage
 54419   Inquisitor's Great Helm
 54420   Inquisitor's Hauberk\
@@ -1101,8 +1230,66 @@
 54437   Gingerbread Shield\
 54438   Iced Gingerbread Shield\
 54439   Iced Gingerbread Shield\
-54440   Iced Gingerbread Shield
-
+54440   Iced Gingerbread Shield\
+54441   Scaperun Teleport\
+54442   Bakery Storage Key\
+54443   Gingerbread Gnome\
+54444   Twisted Slayer Helmet (i)\
+54445   NULL\
+54446   Twisted Hat (t3) (Noted)\
+54447   Twisted Coat (t3) (Noted)\
+54448   Twisted Trousers (t3) (Noted)\
+54449   Twisted Boots (t3) (Noted)\
+54450   Twisted Cane (Noted)\
+54451   Twisted Hat (t2) (Noted)\
+54452   Twisted Coat (t2) (Noted)\
+54453   Twisted Trousers (t2) (Noted)\
+54454   Twisted Boots (t2) (Noted)\
+54455   Twisted Hat (t1) (Noted)\
+54456   Twisted Coat (t1) (Noted)\
+54457   Twisted Trousers (t1) (Noted)\
+54458   Twisted Boots (t1) (Noted)\
+54459   Twisted Banner (Noted)\
+54460   Twisted Teleport Scroll\
+54461   Twisted Teleport Scroll (Noted)\
+54462   NULL\
+54463   Twisted Blueprints\
+54464   Twisted Blueprints (Noted)\
+54465   NULL\
+54466   Twisted Horns\
+54467   Twisted Horns (Noted)\
+54468   NULL\
+54469   Twisted Relic Hunter (t1) Armour Set\
+54470   Twisted Relic Hunter (t1) Armour Set (Noted)\
+54471   NULL\
+54472   Twisted Relic Hunter (t2) Armour Set\
+54473   Twisted Relic Hunter (t2) Armour Set (Noted)\
+54474   NULL\
+54475   Twisted Relic Hunter (t3) Armour Set\
+54476   Twisted Relic Hunter (t3) Armour Set (Noted)\
+54477   NULL\
+54478   Open Herb Sack\
+54479   Spice Rack\
+54480   Open Coal Bag\
+54481   Open Gem Bag\
+54482   Open Seed Box\
+54483   Phoenix\
+54484   Phoenix\
+54485   Phoenix\
+54486   Phoenix\
+54487   NULL\
+54488   Inquisitor's Armour Set\
+54489   Inquisitor's Armour Set (Noted)\
+54490   NULL\
+54491   Little Nightmare (Pet)\
+54492   NULL\
+54493   Clue Scroll (hard)\
+54494   Puzzle Box (hard)\
+54495   Jar of Dreams\
+54496   Jar of Dreams (Noted)\
+54497   NULLL\
+54498   Inquisitor's Mace (Noted)\
+54499   NULL\
 54500   Inquisitor's Great Helm (Noted)\
 54501   NULL\
 54502   Inquisitor's Hauberk (Noted)\
@@ -1166,15 +1353,11 @@
 55800   NULL\
 55900   NULL\
 55999   NULL\
-56000   NULL
-
-56140   NULL
-
-59000   NULL
-
-59999   NULL
-60000   Dwarf Remains
-
-60100   Ranarr Potion (unf) (Noted)
+56000   NULL\
+56140   NULL\
+59000   NULL\
+59999   NULL\
+60000   Dwarf Remains\
+60100   Ranarr Potion (unf) (Noted)\
 
 82190 - 82442 NOTED DUNGEONEERING ITEMS
