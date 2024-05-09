@@ -12,7 +12,8 @@
 23715   Large XP Lamp\
 23716   Huge XP Lamp
 
-24150   150k Coins Ticket (SoF Ticket)\
+24150   150k Coins Ticket\
+24115   300k Coins Ticket\
 25435   200k Coins Ticket
 
 25652   Ancestral Olmlet (Pet)\
@@ -529,6 +530,8 @@
 41936   Dark Crab
 
 41941   Looting Bag
+41942   Ecumenical Key
+41943   Lava Dragon Bones
 
 41971   Staff of the Dead
 
@@ -854,6 +857,8 @@
 
 51748   Noon (Pet)
 
+51791   Imbued Sardomin Cape
+
 51902   Dragon Crossbow
 
 51930   Dragon Bolts (unf)
@@ -896,6 +901,8 @@
 52039   Ablenkian's Escape\
 52040   NULL
 
+52124   Superior Dragon Bones
+
 52275   Green D'hide Shield
 
 52278   Blue D'hide Shield
@@ -903,6 +910,8 @@
 52281   Red D'hide Shield
 
 52284   Black D'hide Shield
+
+52325   Scythe of Vitur
 
 52328   Justiciar Legguards
 
