@@ -1208,6 +1208,21 @@
 54370   Twisted Slayer Helmet\
 54371   NULL
 
+54387   Twisted Hat (t3)\
+54388   NULL\
+54389   Twisted Coat (t3)\
+54390   NULL\
+54391   Twisted Trousers (t3)\
+54392   NULL\
+54393   Twisted Boots (t3)\
+54394   NULL\
+54395   Twisted Cane
+54396   NULL\
+54413   Twisted Banner
+54414   NULL\
+54415   NULL (Death Rune (Noted))\
+54416   Rune Pouch (i)\
+54417   Inquisitor's Mace\
 54418   Cabbage\
 54419   Inquisitor's Great Helm\
 54420   Inquisitor's Hauberk\
